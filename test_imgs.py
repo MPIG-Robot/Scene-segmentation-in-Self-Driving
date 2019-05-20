@@ -99,7 +99,7 @@ def test(img_path,model_path,dataset,out_path):
 
 if __name__ == "__main__":
 
-    model_path = "./runs/fcn8s_camvid/20190315/fcn8s_camvid_best_model.pkl"
+    model_path = "./runs/your_own_path/fcn8s_camvid_best_model.pkl"
     dataset = "camvid"
     for i in range(100):
         img_num = str(i*30+930).zfill(5)
