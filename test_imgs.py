@@ -103,7 +103,7 @@ if __name__ == "__main__":
     dataset = "camvid"
     for i in range(100):
         img_num = str(i*30+930).zfill(5)
-        img_path = "/home/lq/data/CamVid/train/0006R0_f"+str(img_num) +".png"
+        img_path = "dataset/CamVid/train/0006R0_f"+str(img_num) +".png"
         out_path = "./result/"+str(i)+".png"
         print("img_path: ",img_path)
         print("out_path: ",out_path)
