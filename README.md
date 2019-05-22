@@ -9,6 +9,7 @@ ubuntu16.04 ，Anaconda3
 Pytorch框架进行训练
 ## 参考
 主要参考了：https://github.com/meetshah1995/pytorch-semseg
-
+## 特点
+相对于参考代码，使用了更适合道路分割的camvid数据集，编写了配置文件 fcn8s_camvid.yml文件，用以训练自己的模型
 ### 联系邮箱
 ifanxi1998@gmail.com
