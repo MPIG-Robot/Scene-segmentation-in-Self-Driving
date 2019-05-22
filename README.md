@@ -9,3 +9,6 @@ ubuntu16.04 ，Anaconda3
 Pytorch框架进行训练
 ## 参考
 主要参考了：https://github.com/meetshah1995/pytorch-semseg
+
+### 联系邮箱
+ifanxi1998@gmail.com
